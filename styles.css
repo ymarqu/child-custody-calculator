@@ -1,0 +1,19 @@
+body{
+    width: 100vw;
+    height: 100vh;
+
+
+}
+.weekday{
+    height: 50%;
+    width: 18%;
+    display: inline-block;
+    border: 1px solid #000;
+}
+.week{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
